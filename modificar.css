@@ -1,0 +1,40 @@
+/* 
+    Created on : 20/07/2023, 05:25:23 PM
+    Author     : avill
+*/
+html {
+    font-family: 'Poppins', sans-serif;;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #34491A;
+}
+
+header img {
+    width: 20%;
+    height: 100%;
+}
+
+body{
+margin: 0%;
+padding: 0%;
+}
+
+.cuerpo{
+text-align: center;
+margin: 1%;
+margin-left: 18%;
+padding: 1%;
+width: 80%;
+max-width: 900px;
+border: solid 1px black;
+}
+
+footer {
+    background-color: #34491A;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+}

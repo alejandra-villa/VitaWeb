@@ -1,0 +1,48 @@
+/* 
+    Created on : 20/07/2023, 03:37:05 PM
+    Author     : avill
+*/
+
+html {
+    font-family: 'Poppins', sans-serif;;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: #34491A;
+}
+
+header img {
+    width: 20%;
+    height: 100%;
+}
+
+body{
+margin: 0%;
+padding: 0%;
+}
+
+.cuerpo{
+text-align: center;
+margin: auto;
+width: 80%;
+max-width: 900px;
+font-size: 2vh;
+}
+
+section{
+margin-top: 1%;
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-auto-rows: 1fr;
+border: solid 1px black;
+background-color: whitesmoke;
+}
+
+footer {
+    background-color: #34491A;
+    border: 1px solid black;
+    color: white;
+}
+
